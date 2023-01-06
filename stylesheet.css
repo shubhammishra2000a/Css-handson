@@ -1,0 +1,36 @@
+h1{
+    color: rgb(219, 39, 39);
+}
+h3{
+    color: red;
+    font-style: italic;
+}
+ol{
+    color: rgb(136, 6, 6);
+    line-height:250%;
+}
+ul{
+    color: rgb(136, 6, 6);
+    letter-spacing: 3px;
+}
+p{
+    color: rgb(192, 10, 10);
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+    background: yellow;
+    color: red;
+}
+.p{
+    background: yellow;
+    font-weight: bold;
+}
+.lt{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.uli{
+    text-decoration: underline;
+    font-style: italic;
+}
